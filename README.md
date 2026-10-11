@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nandini Bhattacharya</h1>
+<h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3>
 
-<!--
-**nandinibhattacharya800-design/nandinibhattacharya800-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Frontend+Developer;BCA+Student;Always+Learning+New+Things!" />
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I'm working on **My Portfolio**
+- 🌱 I'm learning **HTML, CSS, JavaScript, React**
+- 👩‍💻 Portfolio: https://merry-pony-9d6a0d.netlify.app/
+- 📫 Email: nandinibhattacharya800@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,vscode" />
+</p>
+
+![](https://github-readme-stats.vercel.app/api?username=nandinibhattacharya800-design&theme=radical&show_icons=true)
